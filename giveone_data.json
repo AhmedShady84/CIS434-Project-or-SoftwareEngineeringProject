@@ -1,0 +1,98 @@
+{
+  "user": {
+    "user_id": 1,
+    "first_name": "Ahmed",
+    "last_name": "Shady",
+    "email": "2881639@vikes.csuohio.edu",
+    "password_hash": "7f1ea8c92ffc9d192cb9def672df1576910647497023e6e170e787cd35a041f3",
+    "created_at": "2025-10-28 17:52:45"
+  },
+  "wallet": {
+    "balance_cents": 599500,
+    "last_updated": "2025-11-26 20:49:27"
+  },
+  "cases": [
+    {
+      "case_id": 201,
+      "title": "Plant a Tree",
+      "org_name": "GreenEarth",
+      "goal_cents": 250000,
+      "raised_cents": 90000,
+      "status": "Open",
+      "description": "A community lost its shade after storms. Every $5 plants a sapling. Kids walk to school under the sun\u2014your help grows a living canopy.",
+      "category": "Environment"
+    },
+    {
+      "case_id": 202,
+      "title": "Pediatric Cancer Care",
+      "org_name": "Hope4Kids",
+      "goal_cents": 500000,
+      "raised_cents": 520500,
+      "status": "Funded",
+      "description": "Maya (age 6) is starting chemo. Donations cover fuel cards for hospital trips and comfort kits so she isn\u2019t facing treatment empty-handed.",
+      "category": "Health"
+    },
+    {
+      "case_id": 203,
+      "title": "Emergency Shelter for a Family",
+      "org_name": "SafeNights",
+      "goal_cents": 300000,
+      "raised_cents": 210000,
+      "status": "Open",
+      "description": "After a sudden eviction, the Hassan family is living in their car. Your gift buys three weeks of shelter so parents can get back to work.",
+      "category": "Relief"
+    },
+    {
+      "case_id": 204,
+      "title": "Clean Water Well",
+      "org_name": "ClearWells",
+      "goal_cents": 600000,
+      "raised_cents": 305000,
+      "status": "Open",
+      "description": "Women in Kijani walk 4 miles daily for water. A village well turns hours of walking into minutes of learning and earning.",
+      "category": "Water"
+    },
+    {
+      "case_id": 205,
+      "title": "School Lunch for a Month",
+      "org_name": "BrightPlates",
+      "goal_cents": 200000,
+      "raised_cents": 65000,
+      "status": "Open",
+      "description": "Hungry students can\u2019t focus. $10 covers a child\u2019s lunches for a month\u2014a small lift that changes their whole day.",
+      "category": "Education"
+    }
+  ],
+  "donations": [
+    {
+      "timestamp": "2025-11-26 20:49:27",
+      "case_id": 202,
+      "amount_cents": 100000,
+      "running_balance_cents": 599500
+    },
+    {
+      "timestamp": "2025-11-26 20:49:26",
+      "case_id": 202,
+      "amount_cents": 100000,
+      "running_balance_cents": 699500
+    },
+    {
+      "timestamp": "2025-11-26 20:49:26",
+      "case_id": 202,
+      "amount_cents": 100000,
+      "running_balance_cents": 799500
+    },
+    {
+      "timestamp": "2025-11-26 20:49:24",
+      "case_id": 202,
+      "amount_cents": 100000,
+      "running_balance_cents": 899500
+    },
+    {
+      "timestamp": "2025-10-28 17:53:29",
+      "case_id": 202,
+      "amount_cents": 500,
+      "running_balance_cents": 999500
+    }
+  ]
+}
